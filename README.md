@@ -11,3 +11,5 @@ Dupa completarea formularului se face insert in baza de date.
 Pentru vizualizarea inscrierilor, este necesar login-ul.
 
 Functionalitatea paginii de login este hardcodata, user: 'admin' password: 'admin'
+
+Aplicatia nu este completa (validari, login, insert poza).
